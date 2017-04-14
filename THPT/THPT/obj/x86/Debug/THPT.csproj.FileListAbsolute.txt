@@ -1,0 +1,7 @@
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\THPT\THPT\obj\x86\Debug\THPT.DANGNHAP.resources
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\THPT\THPT\obj\x86\Debug\THPT.Properties.Resources.resources
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\THPT\THPT\obj\x86\Debug\THPT.csproj.GenerateResource.Cache
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\THPT\THPT\bin\Debug\THPT.exe
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\THPT\THPT\bin\Debug\THPT.pdb
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\THPT\THPT\obj\x86\Debug\THPT.exe
+C:\Users\HOANG\Documents\Visual Studio 2010\Projects\THPT\THPT\obj\x86\Debug\THPT.pdb
